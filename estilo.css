@@ -1,0 +1,49 @@
+nav{
+	text-align: right;
+}
+
+
+body{font-family: arial, helvetica;
+	background:#e8e8e8;
+}
+
+.menu{
+	list-style:none;
+	padding: 0;
+	background: #f195b3;
+	width: 90%;
+	max-width:1000px ;
+	margin: auto;
+	
+
+
+}
+
+.menu li a {
+	font-family: LEMON MILK;
+	font-style: LIGHT;
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+.menu li {
+	display: inline-block;
+	text-align: center;
+
+}
+.menu li a:hover{
+	background: #092327;
+
+
+} 	
+
+
+h1{font-family: lemon Milk, sans-serif;
+	color: #f195b3;
+
+}
+
+footer{
+	color: #f195b3;
+}
